@@ -65,7 +65,7 @@
 
 header {
     background-color: #c7ffc7;
-    background: url("../images/developer.png"), url("../images/header_bg.png"), #c7ffc7;
+    background: url("../images/developer.png"), url("../Images/header_bg.png"), #c7ffc7;
     background-position: 23px 38px, bottom left;
     background-size: auto,40%;
     background-repeat: no-repeat;
